@@ -1,4 +1,7 @@
-## multiple_lists.py
+1. [multiple_lists.py](./multiple_lists.py)
+2. [shopping_list.py](./shopping_list.py)
+
+## [multiple_lists.py](./multiple_lists.py)
 
 ### Overview
 
@@ -94,7 +97,7 @@ Account Information: 0. checking - $200.00
 1. savings - $425.50
 ```
 
-## shopping_list.py
+## [shopping_list.py](./shopping_list.py)
 
 ### Overview
 

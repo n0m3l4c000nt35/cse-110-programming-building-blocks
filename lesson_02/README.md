@@ -1,4 +1,8 @@
-## formatting_strings.py
+1. [formatting_strings.py](./formatting_strings.py)
+2. [id_badge_generator.py](./id_badge_generator.py)
+3. [mad_libs.py](./mad_libs.py)
+
+## [formatting_strings.py](./formatting_strings.py)
 
 ### Overview
 
@@ -22,7 +26,7 @@ Your name is Young, Brigham Young.
 
 Make sure to be precise! You should have the spacing, comma, and period appear exactly as shown in the examples.
 
-## id_badge_generator.py
+## [id_badge_generator.py](./id_badge_generator.py)
 
 ### Overview
 
@@ -126,7 +130,7 @@ Month: September Training: Yes
 ---
 ```
 
-## mad_libs.py
+## [mad_libs.py](./mad_libs.py)
 
 ### Overview
 

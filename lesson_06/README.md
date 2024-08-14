@@ -1,4 +1,7 @@
-## amusement_park_rides.py
+1. [amusement_park_rides.py](./amusement_park_rides.py)
+2. [qualifying_for_a_loan.py](./qualifying_for_a_loan.py)
+
+## [amusement_park_rides.py](./amusement_park_rides.py)
 
 ### Overview
 
@@ -73,7 +76,7 @@ If there are two riders, but neither one is at least 18 years old, they may stil
 
 Whew! That's complicated! Now you see why they need an app.
 
-## qualifying_for_a_loan.py
+## [qualifying_for_a_loan.py](./qualifying_for_a_loan.py)
 
 ### Overview
 

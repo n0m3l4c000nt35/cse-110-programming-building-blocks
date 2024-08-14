@@ -1,4 +1,8 @@
-## lists_of_numbers.py
+1. [lists_of_numbers.py](./lists_of_numbers.py)
+2. [lists.py](./lists.py)
+3. [shopping_cart.py](./shopping_cart.py)
+
+## [lists_of_numbers.py](./lists_of_numbers.py)
 
 ### Assignment
 
@@ -67,7 +71,7 @@ The sorted list is:
 7
 ```
 
-## lists.py
+## [lists.py](./lists.py)
 
 ### Overview
 
@@ -124,7 +128,7 @@ Test it by entering the same name 3 times before typing end (the result should b
 
 Test it with no names, just the word end, and make sure it doesn't cause any errors.
 
-## shopping_cart.py
+## [shopping_cart.py](./shopping_cart.py)
 
 ### Overview
 

@@ -1,4 +1,8 @@
-## areas_of_shapes.py
+1. [areas_of_shapes.py](./areas_of_shapes.py)
+2. [meal_price_calculator.py](./meal_price_calculator.py)
+3. [numeric_data_types.py](./numeric_data_types.py)
+
+## [areas_of_shapes.py](./areas_of_shapes.py)
 
 ### Overview
 
@@ -51,7 +55,7 @@ Prompt the user for a single length value, then compute and display the areas of
 
 For each of the three areas in the core requirements, change the prompt for the user to ask for the value in centimeters. Then, display the resulting area in both square centimeters and square meters. Keep in mind that a centimeter is 1/100 of a meter, and a square centimeter is 1/10,000 of a square meter.
 
-## meal_price_calculator.py
+## [meal_price_calculator.py](./meal_price_calculator.py)
 
 ### Overview
 
@@ -159,7 +163,7 @@ Show creativity and exceed the core requirements by adding additional features.
 
 Use good style in your program, including variable names and whitespace.
 
-## numeric_data_types.py
+## [numeric_data_types.py](./numeric_data_types.py)
 
 ### Overview
 

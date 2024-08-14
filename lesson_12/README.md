@@ -1,4 +1,7 @@
-## find_youngest_person.py
+1. [find_youngest_person.py](./find_youngest_person.py)
+2. [finding_items_in_a_file.py](./finding_items_in_a_file.py)
+
+## [find_youngest_person.py](./find_youngest_person.py)
 
 ### Overview
 
@@ -43,7 +46,7 @@ Because there is no user input, you don't need to test the program with differen
 - The youngest age is identified.
 - The name of the youngest person is identified.
 
-## finding_items_in_a_file.py
+## [finding_items_in_a_file.py](./finding_items_in_a_file.py)
 
 ### Overview
 

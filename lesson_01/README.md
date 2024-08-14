@@ -1,4 +1,7 @@
-## favorite_color.py
+1. [favorite_color.py](./favorite_color.py)
+2. [hello_world.py](./hello_world.py)
+
+## [favorite_color.py](./favorite_color.py)
 
 ### Overview
 
@@ -42,7 +45,7 @@ Change the wording so that the program gives the user a more interesting message
 
 Anything else you can think of!
 
-## hello_world.py
+## [hello_world.py](./hello_world.py)
 
 ### Overview
 

@@ -1,4 +1,7 @@
-## for_loop.py
+1. [for_loop.py](./for_loop.py)
+2. [iterating_through_strings.py](./iterating_through_strings.py)
+
+## [for_loop.py](./for_loop.py)
 
 ### Overview
 
@@ -65,7 +68,7 @@ Verify that your output for part 3 does not include any odd numbers.
 
 Verify that your output for part 3 starts at 2 and ends at 20.
 
-## iterating_through_strings.py
+## [iterating_through_strings.py](./iterating_through_strings.py)
 
 ### Overview
 

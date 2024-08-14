@@ -1,4 +1,8 @@
-## adventure_game.py
+1. [adventure_game.py](./adventure_game.py)
+2. [grade_calculator.py](./grade_calculator.py)
+3. [practicing_if_statements.py](./practicing_if_statements.py)
+
+## [adventure_game.py](./adventure_game.py)
 
 ### Overview
 
@@ -49,7 +53,7 @@ Obviously, you'll show creativity by customizing the prompts and choices. To ach
 
 If you've already learned other programming concepts (for example, loops, lists, etc.) you are welcome to use those concepts here as a way to make show creativity and exceed requirements.
 
-## grade_calculator.py
+## [grade_calculator.py](./grade_calculator.py)
 
 ### Overview
 
@@ -91,7 +95,7 @@ Recognize that there is no A+ grade, only A and A-. Add some additional logic to
 
 Similarly, recognize that there is no F+ or F- grades, only F. Add additional logic to your program to detect these cases and handle them correctly.
 
-## practicing_if_statements.py
+## [practicing_if_statements.py](./practicing_if_statements.py)
 
 ### Overview
 

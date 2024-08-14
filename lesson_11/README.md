@@ -1,4 +1,8 @@
-## books.py
+1. [books.py](./books.py)
+2. [human_resources_system.py](./human_resources_system.py)
+3. [life_expectancy.py](./life_expectancy.py)
+
+## [books.py](./books.py)
 
 ### Overview
 
@@ -46,7 +50,7 @@ Your program iterates through each line in the file and displays them to the scr
 
 Your program strips off the "\n" characters at the end of each line before displaying them, so it doesn't produce a blank line in between each displayed line.
 
-## human_resources_system.py
+## [human_resources_system.py](./human_resources_system.py)
 
 ### Overview
 
@@ -154,7 +158,7 @@ Joseph (ID: 9427), Sales - $3791.67
 Barbara (ID: 5967), Engineer - $5333.33
 ```
 
-## life_expectancy.py
+## [life_expectancy.py](./life_expectancy.py)
 
 ### Overview
 

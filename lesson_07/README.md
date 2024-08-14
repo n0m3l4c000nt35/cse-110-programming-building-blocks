@@ -1,4 +1,8 @@
-## guess_my_number_game.py
+1. [guess_my_number_game.py](./guess_my_number_game.py)
+2. [loops.py](./loops.py)
+3. [word_guessing_game.py](./word_guessing_game.py)
+
+## [guess_my_number_game.py](./guess_my_number_game.py)
 
 ### Overview
 
@@ -83,7 +87,7 @@ Keep track of how many guesses the user has made and inform them of it at the en
 
 After the game is over, ask the user if they want to play again. Then, loop back and play the whole game again and continue this loop as long as they keep saying "yes".
 
-## loops.py
+## [loops.py](./loops.py)
 
 ### Overview
 
@@ -129,7 +133,7 @@ For the piece of candy program, test your last loop by entering different amount
 
 Try saying "yes" the very first time, and ensure that it works as expected.
 
-## word_guessing_game.py
+## [word_guessing_game.py](./word_guessing_game.py)
 
 ### Overview
 

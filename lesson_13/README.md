@@ -1,4 +1,8 @@
-## areas_of_shapes_revisited.py
+1. [areas_of_shapes_revisited.py](./areas_of_shapes_revisited.py)
+2. [basic_functions.py](./basic_functions.py)
+3. [wind_chill_calculations.py](./wind_chill_calculations.py)
+
+## [areas_of_shapes_revisited.py](./areas_of_shapes_revisited.py)
 
 ### Overview
 
@@ -38,7 +42,7 @@ In order to make this work correctly, you'll need to make use of a default value
 
 Change your program to use this for all three calculations and verify that it works.
 
-## basic_functions.py
+## [basic_functions.py](./basic_functions.py)
 
 ### Overview
 
@@ -84,7 +88,7 @@ Try your program with each of the following conditions and ensure that it works 
 - A phrase where each word starts with a capital
 - An empty string
 
-## wind_chill_calculations.py
+## [wind_chill_calculations.py](./wind_chill_calculations.py)
 
 ### Overview
 
